@@ -1,6 +1,7 @@
 # Demands - Fluently rude run-time assertions
 
 ![Build Status](https://ci.appveyor.com/api/projects/status/f6jb5221y6ueo0ho?svg=true)
+[NuGet](https://www.nuget.org/packages/Demands/)
 
 Demands is a small library to validate assumptions and yell at the
 exception handler if anything unexpected happens.
