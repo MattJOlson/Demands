@@ -27,8 +27,10 @@ namespace Demands
         /// <param name="reason">A helpful message attached to the exception in case of failure.</param>
         public void OrThrow<T>(string reason) where T : Exception
         {
+            if (_predicate()) return;
+
             T ex = (T) Activator.CreateInstance(typeof (T), reason);
-            if (!_predicate()) throw ex;
+            throw ex;
         }
     }
 }

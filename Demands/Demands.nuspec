@@ -6,8 +6,8 @@
     <title>$title$</title>
     <authors>$author$</authors>
     <owners>$author$</owners>
-    <licenseUrl>https://github.com/MattJOlson/MattUtils/blob/master/Demand/LICENSE</licenseUrl>
-    <projectUrl>https://github.com/MattJOlson/MattUtils/tree/master/Demand</projectUrl>
+    <licenseUrl>https://github.com/MattJOlson/Demands/blob/master/LICENSE</licenseUrl>
+    <projectUrl>https://github.com/MattJOlson/Demands/tree/master/</projectUrl>
     <requireLicenseAcceptance>false</requireLicenseAcceptance>
     <description>$description$</description>
     <releaseNotes>Packed properly this time</releaseNotes>
