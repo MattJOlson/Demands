@@ -59,7 +59,7 @@
     <Compile Include="Properties\AssemblyInfo.cs" />
   </ItemGroup>
   <ItemGroup>
-    <ProjectReference Include="..\Demand\Demands.csproj">
+    <ProjectReference Include="..\Demands\Demands.csproj">
       <Project>{752dc4bc-7bf8-44f0-91de-35bc7d13dc1e}</Project>
       <Name>Demands</Name>
     </ProjectReference>
