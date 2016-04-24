@@ -1,0 +1,16 @@
+<?xml version="1.0"?>
+<package >
+  <metadata>
+    <id>$id$</id>
+    <version>$version$</version>
+    <title>$title$</title>
+    <authors>$author$</authors>
+    <owners>$author$</owners>
+    <licenseUrl>https://github.com/MattJOlson/MattUtils/blob/master/Demand/LICENSE</licenseUrl>
+    <projectUrl>https://github.com/MattJOlson/MattUtils/tree/master/Demand</projectUrl>
+    <requireLicenseAcceptance>false</requireLicenseAcceptance>
+    <description>$description$</description>
+    <releaseNotes>Packed properly this time</releaseNotes>
+    <copyright>Copyright 2015</copyright>
+  </metadata>
+</package>
