@@ -2,7 +2,7 @@
 using System.Collections.Generic;
 using System.Linq;
 
-namespace MattUtils.Demands
+namespace Demands
 {
     public class DemandEnumerable<T>
     {

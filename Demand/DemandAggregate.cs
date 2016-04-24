@@ -1,6 +1,6 @@
 ﻿using System;
 
-namespace MattUtils.Demands
+namespace Demands
 {
     public class DemandAggregate
     {

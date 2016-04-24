@@ -1,7 +1,6 @@
 using FluentAssertions;
 using NUnit.Framework;
 using System;
-using MattUtils.Demands;
 
 namespace Demands.Tests.Unit
 {

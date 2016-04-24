@@ -7,7 +7,7 @@
     <ProjectGuid>{752DC4BC-7BF8-44F0-91DE-35BC7D13DC1E}</ProjectGuid>
     <OutputType>Library</OutputType>
     <AppDesignerFolder>Properties</AppDesignerFolder>
-    <RootNamespace>MattUtils.Demands</RootNamespace>
+    <RootNamespace>Demands</RootNamespace>
     <AssemblyName>Demands</AssemblyName>
     <TargetFrameworkVersion>v4.5.2</TargetFrameworkVersion>
     <FileAlignment>512</FileAlignment>
