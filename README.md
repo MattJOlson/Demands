@@ -48,7 +48,7 @@ Demand.That(foo)
       .OrThrow<SpecialSnowflakeException>("Snowflake wasn't special enough");
 ```
 
-##What Demands is not
+## What Demands is not
 
 Demands is not a validation library. If you want to do something more
 sophisticated than scream and die with your predicate failures, a
@@ -67,7 +67,7 @@ framework ought to complain, but if you want to make fluent assertions
 in your test code you're probably better off with, well [Fluent
 Assertions](https://github.com/dennisdoomen/FluentAssertions).
 
-##What Demands is
+## What Demands is
 
 Demands is a lightweight (I hope), fluent (mostly), and only slightly
 snarky package for runtime assertions. It documents assumptions you've
